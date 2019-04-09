@@ -1,0 +1,25 @@
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  margin:
+  5px;
+}
+
+.card-image{
+  height: 300px;
+  width: 300px;
+  padding: 10px;
+}
+
+.btn-link {
+  color: black;
+  text-decoration: none;
+}
+
+.card {
+  margin: 10px;
+  box-shadow: 0px 0px 6px 6px gray;
+}

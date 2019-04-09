@@ -1,0 +1,7 @@
+.main-cont{
+  border: 2px solid lightgray;
+  border-radius: 15px;
+  min-height: 500px;
+  padding: 10px;
+  box-shadow: 0px 0px 5px 5px gray;
+}
